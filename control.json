@@ -2,7 +2,7 @@
   "schema": 1,
   "minVersion": "",
   "contact": "Discord \u2014 icreador",
-  "statsUrl": "",
+  "statsUrl": "https://majestic-stats.majestic-admin.workers.dev/ingest",
   "blockedDevices": [
     {
       "machineCode": "E5C8-B586-5EFD-197E",
