@@ -1,16 +1,7 @@
 {
   "schema": 1,
   "minVersion": "",
-  "contact": "Discord \u2014 icreador",
+  "contact": "Discord: icreador",
   "statsUrl": "https://majestic-stats.majestic-admin.workers.dev/ingest",
-  "blockedDevices": [
-    {
-      "machineCode": "E5C8-B586-5EFD-197E",
-      "reason": "\u0425\u0443\u043B\u0438\u0433\u0430\u043D"
-    },
-    {
-      "machineCode": "E68A-4361-92EE-63DA",
-      "reason": "\u0422\u0435\u0441\u0442"
-    }
-  ]
+  "blockedDevices": []
 }
